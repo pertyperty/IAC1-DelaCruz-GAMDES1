@@ -13,6 +13,7 @@ Additionally, this README.md file will contain the reflections after each submis
 ## Summary of Submissions
 - Submission 1: Lab 1: Godot Setup and Scene Tree
 <img width="288" height="336" alt="Lab 1" style="display: block; margin: 0 auto;" src="https://github.com/user-attachments/assets/11ddbcab-e7aa-4b6d-afc8-8839d90d2202" />
+
 A. Which editor panel was least familiar to you, and how did you work out what it does?
 Every panel was familiar to me as they are the default for every production software. Mayhaps in this case, the Inspector panel was the least familiar because the contents and tools found within is different from the other tools
 

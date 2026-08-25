@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://410eef6cdvs1"]
+
+[ext_resource type="Script" uid="uid://brsy4jr2mvybc" path="res://label.gd" id="1_tto7p"]
+
+[node name="something descriptive" type="Node2D" unique_id=1869573266]
+
+[node name="Label" type="Label" parent="." unique_id=2133875611]
+offset_left = 512.0
+offset_top = 304.0
+offset_right = 640.0
+offset_bottom = 336.0
+text = "Miss ko na siya"
+horizontal_alignment = 1
+vertical_alignment = 1
+script = ExtResource("1_tto7p")

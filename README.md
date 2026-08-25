@@ -11,7 +11,7 @@ This repository contains my submissions for **GAMDES1 (Introduction to Game Desi
 
 ## Summary of Submissions
 - Submission 1: Lab 1: Godot Setup and Scene Tree
-<img width="288" height="336" alt="Lab 1" src="https://github.com/user-attachments/assets/11ddbcab-e7aa-4b6d-afc8-8839d90d2202" />
+<img width="288" height="336" alt="Lab 1" style="display: block; margin: 0 auto;" src="https://github.com/user-attachments/assets/11ddbcab-e7aa-4b6d-afc8-8839d90d2202" />
 
 - Submission 2: _To be added_
 - Submission 3: _To be added_

@@ -1,6 +1,7 @@
 # GAMDES1 - Introduction to Game Design and Development
 
 This repository contains my submissions for **GAMDES1 (Introduction to Game Design and Development)**.
+Additionally, this README.md file will contain the reflections after each submissions.
 
 ## Development Stack
 - **Game Engine:** Godot

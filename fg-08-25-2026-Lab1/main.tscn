@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://crfipea4gyb1q"]
+
+[node name="Main" type="Node2D" unique_id=1890380124]
+
+[node name="Player" type="Sprite2D" parent="." unique_id=1053539339]
+
+[node name="Camera" type="Camera2D" parent="." unique_id=1973202954]
+
+[node name="ScoreLabel" type="Label" parent="." unique_id=1233764288]
+offset_right = 40.0
+offset_bottom = 23.0

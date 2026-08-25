@@ -4,7 +4,7 @@
 
 [node name="Player" type="Sprite2D" parent="." unique_id=1053539339]
 
-[node name="Camera" type="Camera2D" parent="." unique_id=1973202954]
+[node name="Camera" type="Camera2D" parent="Player" unique_id=1973202954]
 
 [node name="ScoreLabel" type="Label" parent="." unique_id=1233764288]
 offset_right = 40.0
